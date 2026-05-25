@@ -1,5 +1,5 @@
 # Pokemon Legendary Classification
-### Data Mining Special Assignment — DT_003_DM
+
 
 Binary classification of Legendary vs Non-Legendary Pokemon using ensemble machine learning on a severely imbalanced dataset (~8% minority class).
 
